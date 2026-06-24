@@ -1,0 +1,31 @@
+
+1-------------lmezard-------------------
+web: lmezard
+web-pass: !q\]Ej?*5K5cy*AJ
+mail: laurie@borntosec.net
+mail-pass: !q\]Ej?*5K5cy*AJ
+ftp: lmezard
+ftp-pass: G!@M6f4Eatau{sF"
+----------------------------------------
+
+2--------------laurie-------------------
+ssh-user: laurie
+ssh-pass: 330b845f32185747e4f8ca15d40ca59796035c89ea809fb5d30f4da83ecf45a4
+---------------------------------------
+
+3--------------thor--------------------
+ssh-user: thor
+ssh-pass: Publicspeakingisveryeasy.126241207201b2149opekmq426135
+---------------------------------------
+
+4----------------zaz-------------------
+ssh-user: zaz
+ssh-pass: 646da671ca01bb5d84dbb5fb2238dc8e
+mail-user: zaz
+mail-pass: 646da671ca01bb5d84dbb5fb2238dc8e
+---------------------------------------
+
+5--------------admin-------------------
+php: admin
+php-pass: Fg-'kKXBj87E:aJ$
+---------------------------------------
