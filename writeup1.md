@@ -128,6 +128,8 @@ Login to FTP with these credentials:
 ftp 192.168.56.101
 user: lmezard
 pass: G!@M6f4Eatau{sF"
+python3 ftpsh.py 192.168.56.101 lmezard
+
 ```
 
 Files found: `README`, `fun`
